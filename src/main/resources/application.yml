@@ -1,0 +1,48 @@
+# This application.yml is only meant as a template, the property values should be over written
+# and a new configuration file provided on execution
+archiveNotification:
+  notificationRepository: /Users/user/Desktop/notified.txt
+  emailTemplate:
+    mockSend: true
+    isHtml: true
+    # not in these templates, we substitute $ with ^ in the freemarker templates.  That is so Spring doesn't
+    # try to fill in variables.  Spring doesn't currently have a good way to escape them.  This application
+    # will replace ^ with $ before filling in the templates.
+    ctd: >-
+      IMPORTANT - Clinical Test Development (CTD) Data Review for ^{ngs_number}-^{project_name} needed.
+
+      </p>You are receiving this email because you are an owner of <span style='font-weight:bolder;'>^{ngs_number}-^{project_name}</span> data.  Your CTD/Sandbox (i.e. Development)
+      data is scheduled to be deleted on <span style='font-weight:bolder;'>^{archive_date}</span> in accordance with the CGSL Clinical Sequencing Data Retention Policy [050548].
+      Please refer to this policy for more information.</p>
+
+      <p>If you do NOT want this data deleted at this time, please submit the NGS Data Request Web Form located on the CGSL
+      Tools page with the requested information. The request form must be received and approved within one month of the deletion date.</p>
+
+    prod: >-
+      IMPORTANT - Production Data Review for ^{ngs_number}-^{project_name} needed.
+
+      <p>You are receiving this email because you are an owner of <span style='font-weight:bolder;'>^{ngs_number}-^{project_name}</span> data.
+      Your Production data is scheduled to be archived on <span style='font-weight:bolder;'>^{archive_date}</span> in accordance with the CGSL Clinical Sequencing Data Retention Policy [050548].
+      Please refer to this policy for more information on what files are archived and items affected.</p>
+
+      <p>If you do NOT want this data archived at this time, please submit the NGS Data Request Web Form located on the CGSL
+      Tools page with the requested information. The request form must be received and approved within one month of the archive date.</p>
+
+sia:
+  url: https://sia.tcprod.mayo.edu/sia/api
+
+spring:
+  mail:
+    default-encoding: UTF-8
+    host: fermat.mayo.edu
+    #username: lanid
+    #password: secret
+    port: 25
+    properties:
+      mail:
+        smtp:
+          auth: false
+          starttls:
+            enable: false
+    protocol: smtp
+    test-connection: false
