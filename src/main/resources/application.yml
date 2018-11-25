@@ -2,8 +2,14 @@
 # and a new configuration file provided on execution
 archiveNotification:
   notificationRepository: /Users/user/Desktop/notified.txt
+  # the period after panel go live when archive (cleanup) will begin.  Use P#Y#M#D to specify the number of years, months, and days respectively
+  cleanupPeriod: P0Y6M0D
+  # The period before the clean will start when we should send out a notification email.  Use P#Y#M#D to specify the number of years, months, and days respectively
+  warningPeriodBeforeCleanup: P0Y2M0D
   emailTemplate:
+    # set to true if you want to send an email to a specific person instead of contacts, useful for testing. TODO: perhaps we should have the email to send to here instead
     mockSend: true
+    # this will be set to true if the email should be an HTML email instead of plain text.  If you need HTML tags or styles use this.
     isHtml: true
     # not in these templates, we substitute $ with ^ in the freemarker templates.  That is so Spring doesn't
     # try to fill in variables.  Spring doesn't currently have a good way to escape them.  This application
@@ -28,10 +34,14 @@ archiveNotification:
       <p>If you do NOT want this data archived at this time, please submit the NGS Data Request Web Form located on the CGSL
       Tools page with the requested information. The request form must be received and approved within one month of the archive date.</p>
 
+# configuration details specific to the connection to SIA
 sia:
+  # the url where the sia api is deployed
   url: https://sia.tcprod.mayo.edu/sia/api
 
+# Spring settings
 spring:
+  # this is needed to configure the mail server.  Reference the Spring Mail documentation for details.
   mail:
     default-encoding: UTF-8
     host: fermat.mayo.edu
