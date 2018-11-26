@@ -12,7 +12,7 @@ import spock.lang.Subject
 import java.time.ZonedDateTime
 import java.util.stream.Collectors
 
-class SiaNotifierApplicationSpec extends Specification {
+class SiaNotificationApplicationSpec extends Specification {
 
     @Subject
     SiaNotificationApplication application
