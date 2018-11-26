@@ -12,7 +12,7 @@ import spock.lang.Subject
 import java.time.ZonedDateTime
 import java.util.stream.Collectors
 
-class OrderedServiceMonitorApplicationSpec extends Specification {
+class SiaNotifierApplicationSpec extends Specification {
 
     @Subject
     SiaNotificationApplication application
