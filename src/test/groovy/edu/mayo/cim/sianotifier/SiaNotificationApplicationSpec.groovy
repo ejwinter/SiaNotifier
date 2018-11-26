@@ -51,16 +51,16 @@ class SiaNotificationApplicationSpec extends Specification {
 
     def "assembleNotificationContacts"() {
         given:
-        AssayDefinition assay = new AssayDefinition(cgslDevTechs: [new Contact(email: 'one@mayo.edu')], hostLabContacts: [new Contact(email: 'two@mayo.edu'), new Contact(email: 'three@mayo.edu')])
+        AssayDefinition assay = new AssayDefinition(proponents: [new Contact(email: 'one@mayo.edu')], hostLabContacts: [new Contact(email: 'two@mayo.edu'), new Contact(email: 'three@mayo.edu')], informaticsSpecialists: [new Contact(email:  "four@mayo.edu")])
         and:
-        application.mockSend = false
+        application.mockReceiver = null
 
         when:
         Set<Contact> contactList = application.assembleNotificationContacts(assay)
 
         then:
-        contactList.size() == 3
-        contactList.collect { it.email }.containsAll(['one@mayo.edu', 'two@mayo.edu', 'three@mayo.edu'])
+        contactList.size() == 4
+        contactList.collect { it.email }.containsAll(['one@mayo.edu', 'two@mayo.edu', 'three@mayo.edu', "four@mayo.edu"])
     }
 
     def "getPanelsToNotifyAbout"() {
@@ -134,6 +134,8 @@ class SiaNotificationApplicationSpec extends Specification {
         and:
         application.notificationDao.hasBeenNotified("alreadyNotified", null) >> true
         application.notificationDao.hasBeenNotified("alreadyNotified", "p6") >> true
+        and:
+        application.mockReceiver = "me@mayo.edu"
 
         when:
         application.run()

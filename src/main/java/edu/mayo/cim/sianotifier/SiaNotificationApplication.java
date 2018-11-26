@@ -53,8 +53,8 @@ public class SiaNotificationApplication implements CommandLineRunner {
     private NotificationDao notificationDao;
 
     /** by default we don't want to accidently spam people */
-    @Value("${archiveNotification.emailTemplate.mockSend:true}")
-    private boolean mockSend = true;
+    @Value("${archiveNotification.emailTemplate.mockReceiver:#{null}}")
+    private String mockReceiver = null;
 
     @Value("${archiveNotification.emailTemplate.isHtml:false}")
     private boolean htmlMessage = false;
@@ -100,6 +100,13 @@ public class SiaNotificationApplication implements CommandLineRunner {
     }
 
     private void sendMessage(SimpleMailMessage simpleMailMessage) {
+
+        if(mockReceiver == null){
+            throw new IllegalStateException();
+        }else{
+            logger.debug("Mock receiver {}", mockReceiver);
+        }
+
         if(simpleMailMessage == null){
             logger.warn("We have a null email message for some reason.");
             return;
@@ -115,6 +122,9 @@ public class SiaNotificationApplication implements CommandLineRunner {
                 helper.setSubject(simpleMailMessage.getSubject());
                 helper.setTo(simpleMailMessage.getTo());
                 helper.setText(wrapHtmlBody(simpleMailMessage.getText()), true);
+                if(simpleMailMessage.getCc() != null) {
+                    helper.setCc(simpleMailMessage.getCc());
+                }
             });
         } else {
             mailSender.send(simpleMailMessage);
@@ -131,12 +141,12 @@ public class SiaNotificationApplication implements CommandLineRunner {
 
     private Set<Contact> assembleNotificationContacts(AssayDefinition assay) {
         Set<Contact> contacts = new HashSet<>();
-        if (mockSend) {
-            contacts.add(new Contact().setEmail("Winter.Eric@mayo.edu"));
+        if (mockReceiver != null) {
+            contacts.add(new Contact().setEmail(mockReceiver));
         } else {
-            //TODO: which contacts should get this notification?
+            contacts.addAll(assay.getProponents());
             contacts.addAll(assay.getHostLabContacts());
-            contacts.addAll(assay.getCgslDevTechs());
+            contacts.addAll(assay.getInformaticsSpecialists());
         }
         return contacts;
     }
@@ -150,7 +160,15 @@ public class SiaNotificationApplication implements CommandLineRunner {
                 .setVariable("archive_date", DateTimeFormatter.ofPattern("dd MMM yyyy").format(panelDefinition.getGoLiveDate().plus(Period.parse(periodAfterGoLiveToStartCleanup))));
 
         panelDefinition.getNotificationContacts().forEach(contact -> message.addRecipient(contact.getEmail()));
-        return message.getMessage();
+
+        SimpleMailMessage email = message.getMessage();
+
+        if(mockReceiver == null){
+            //TODO make configurable
+            email.setCc("RSTNGSDATAREQ@mayo.edu");
+        }
+
+        return email;
     }
 
     private TemplatedEmailMessage createTemplateEmail(String template) {

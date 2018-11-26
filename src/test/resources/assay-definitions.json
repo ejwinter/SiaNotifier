@@ -45,14 +45,14 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "m060084",
-    "email" : "dina.michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -118,53 +118,53 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Malinda",
     "lastName" : "Butz",
     "lanId" : "mlh17",
-    "email" : "Butz.Malinda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Kim",
     "lastName" : "Lauer",
     "lanId" : "M189789",
-    "email" : "Lauer.Kimberly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -233,59 +233,59 @@
     "firstName" : "Dimitar",
     "lastName" : "Gavrilov",
     "lanId" : "m006881",
-    "email" : "Gavrilov.Dimitar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Noemi",
     "lastName" : "Vidal-Folch",
     "lanId" : "nxv04",
-    "email" : "VidalFolch.Noemi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -351,41 +351,41 @@
     "firstName" : "Nicole",
     "lastName" : "Hoppman",
     "lanId" : "m045189",
-    "email" : "Hoppman.Nicole@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Kate",
     "lastName" : "Pearce",
     "lanId" : "m042273",
-    "email" : "Pearce.Kathryn@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -433,65 +433,65 @@
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Amber",
     "lastName" : "McDonald",
     "lanId" : "amo11",
-    "email" : "McDonald.AmberM@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Pat",
     "lastName" : "Lundquist",
     "lanId" : "pal04",
-    "email" : "lundquist.patrick@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Shubham",
     "lastName" : "Basu",
     "lanId" : "M191047",
-    "email" : "Basu.Shubham@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -569,65 +569,65 @@
     "firstName" : "Erik",
     "lastName" : "Thorland",
     "lanId" : "ECT02",
-    "email" : "thorland.erik@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Pat",
     "lastName" : "Lundquist",
     "lanId" : "pal04",
-    "email" : "lundquist.patrick@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Amber",
     "lastName" : "McDonald",
     "lanId" : "amo11",
-    "email" : "McDonald.AmberM@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Rohini",
     "lastName" : "Mopuri",
     "lanId" : "M185403",
-    "email" : "Mopuri.Rohini@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -735,77 +735,77 @@
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Pat",
     "lastName" : "Lundquist",
     "lanId" : "pal04",
-    "email" : "lundquist.patrick@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Amber",
     "lastName" : "McDonald",
     "lanId" : "amo11",
-    "email" : "McDonald.AmberM@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -952,59 +952,59 @@
     "firstName" : "Rajiv",
     "lastName" : "Pruthi",
     "lanId" : "rkp02",
-    "email" : "pruthi.rajiv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Julie",
     "lastName" : "Majerus",
     "lanId" : "jam56",
-    "email" : "majerus.julie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -1157,53 +1157,53 @@
     "firstName" : "Jennifer",
     "lastName" : "Oliveira",
     "lanId" : "M028783",
-    "email" : "Oliveira.Jennifer@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Molly",
     "lastName" : "Hein",
     "lanId" : "m004412",
-    "email" : "hein.molly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolHeme",
     "lastName" : "Technical Specialists",
     "lanId" : "NA3",
-    "email" : "DLRSTMHNGS@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -1284,41 +1284,41 @@
     "firstName" : "Jennifer",
     "lastName" : "Oliveira",
     "lanId" : "M028783",
-    "email" : "Oliveira.Jennifer@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Molly",
     "lastName" : "Hein",
     "lanId" : "m004412",
-    "email" : "hein.molly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -1375,77 +1375,77 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Ande",
     "lastName" : "Rumilla",
     "lanId" : "KMR06",
-    "email" : "Rumilla.Kandelaria@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Samantha",
     "lastName" : "Roellinger",
     "lanId" : "m027412",
-    "email" : "roellinger.samantha@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -1538,41 +1538,41 @@
     "firstName" : "Rajiv",
     "lastName" : "Pruthi",
     "lanId" : "rkp02",
-    "email" : "pruthi.rajiv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Julie",
     "lastName" : "Majerus",
     "lanId" : "jam56",
-    "email" : "majerus.julie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -1659,71 +1659,71 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Ande",
     "lastName" : "Rumilla",
     "lanId" : "KMR06",
-    "email" : "Rumilla.Kandelaria@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Samantha",
     "lastName" : "Roellinger",
     "lanId" : "m027412",
-    "email" : "roellinger.samantha@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neiladri",
     "lastName" : "Saha",
     "lanId" : "M191668",
-    "email" : "Saha.Neiladri@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -1771,65 +1771,65 @@
     "firstName" : "Roshini(Inactive)",
     "lastName" : "Abraham",
     "lanId" : "ABRAR",
-    "email" : "Abraham.Roshini@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Ann",
     "lastName" : "Moyer",
     "lanId" : "AMT24",
-    "email" : "Moyer.Ann@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Susan",
     "lastName" : "Lagerstedt",
     "lanId" : "sal07",
-    "email" : "lagerstedt.susan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Carlos",
     "lastName" : "Sosa",
     "lanId" : "M146621",
-    "email" : "Sosa.Carlos@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -2015,65 +2015,65 @@
     "firstName" : "Linda",
     "lastName" : "Hasadsri",
     "lanId" : "m099062",
-    "email" : "Hasadsri.Linda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Nicole",
     "lastName" : "Boczek",
     "lanId" : "M071213",
-    "email" : "Boczek.Nicole@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Samantha",
     "lastName" : "Roellinger",
     "lanId" : "m027412",
-    "email" : "roellinger.samantha@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Rohini",
     "lastName" : "Mopuri",
     "lanId" : "M185403",
-    "email" : "Mopuri.Rohini@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -2274,41 +2274,41 @@
     "firstName" : "Ande",
     "lastName" : "Rumilla",
     "lanId" : "KMR06",
-    "email" : "Rumilla.Kandelaria@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Malinda",
     "lastName" : "Butz",
     "lanId" : "mlh17",
-    "email" : "Butz.Malinda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -2365,65 +2365,65 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Ande",
     "lastName" : "Rumilla",
     "lanId" : "KMR06",
-    "email" : "Rumilla.Kandelaria@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Malinda",
     "lastName" : "Butz",
     "lanId" : "mlh17",
-    "email" : "Butz.Malinda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -2471,65 +2471,65 @@
     "firstName" : "Linda",
     "lastName" : "Hasadsri",
     "lanId" : "m099062",
-    "email" : "Hasadsri.Linda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Schimmenti",
     "lanId" : "M004688",
-    "email" : "Schimmenti.Lisa@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Malinda",
     "lastName" : "Butz",
     "lanId" : "mlh17",
-    "email" : "Butz.Malinda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -2577,41 +2577,41 @@
     "firstName" : "Devin",
     "lastName" : "Oglesbee",
     "lanId" : "dxo03",
-    "email" : "Oglesbee.Devin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Noemi",
     "lastName" : "Vidal-Folch",
     "lanId" : "nxv04",
-    "email" : "VidalFolch.Noemi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -2659,47 +2659,47 @@
     "firstName" : "Dimitar",
     "lastName" : "Gavrilov",
     "lanId" : "m006881",
-    "email" : "Gavrilov.Dimitar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Noemi",
     "lastName" : "Vidal-Folch",
     "lanId" : "nxv04",
-    "email" : "VidalFolch.Noemi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -2747,53 +2747,53 @@
     "firstName" : "Devin",
     "lastName" : "Oglesbee",
     "lanId" : "dxo03",
-    "email" : "Oglesbee.Devin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Noemi",
     "lastName" : "Vidal-Folch",
     "lanId" : "nxv04",
-    "email" : "VidalFolch.Noemi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Kim",
     "lastName" : "Lauer",
     "lanId" : "M189789",
-    "email" : "Lauer.Kimberly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -2850,53 +2850,53 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Kim",
     "lastName" : "Lauer",
     "lanId" : "M189789",
-    "email" : "Lauer.Kimberly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -2971,53 +2971,53 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neiladri",
     "lastName" : "Saha",
     "lanId" : "M191668",
-    "email" : "Saha.Neiladri@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3095,35 +3095,35 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Ming",
     "lastName" : "Mai",
     "lanId" : "maim",
-    "email" : "Mai.Ming@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3180,47 +3180,47 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Ming",
     "lastName" : "Mai",
     "lanId" : "maim",
-    "email" : "Mai.Ming@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolHeme",
     "lastName" : "Technical Specialists",
     "lanId" : "NA3",
-    "email" : "DLRSTMHNGS@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3277,41 +3277,41 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Katie",
     "lastName" : "Halverson",
     "lanId" : "M084568",
-    "email" : "Halverson.Katie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3368,35 +3368,35 @@
     "firstName" : "Nancy",
     "lastName" : "Wengenack",
     "lanId" : "WENGN",
-    "email" : "wengenack.nancy@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Seanne",
     "lastName" : "Buckwalter",
     "lanId" : "SPB03",
-    "email" : "buckwalter.seanne@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Rohan",
     "lastName" : "Gnanaolivu",
     "lanId" : "M149947",
-    "email" : "Gnanaolivu.RohanDavid@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3435,35 +3435,35 @@
     "firstName" : "Roshini(Inactive)",
     "lastName" : "Abraham",
     "lanId" : "ABRAR",
-    "email" : "Abraham.Roshini@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Susan",
     "lastName" : "Lagerstedt",
     "lanId" : "sal07",
-    "email" : "lagerstedt.susan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3511,35 +3511,35 @@
     "firstName" : "Matt",
     "lastName" : "Binnicker",
     "lanId" : "MJB41",
-    "email" : "Binnicker.Matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Mark",
     "lastName" : "Espy",
     "lanId" : "MJE07",
-    "email" : "espy.mark@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Rohini",
     "lastName" : "Mopuri",
     "lanId" : "M185403",
-    "email" : "Mopuri.Rohini@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3587,47 +3587,47 @@
     "firstName" : "Robin",
     "lastName" : "Patel",
     "lanId" : "RXP04",
-    "email" : "patel.robin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Scott",
     "lastName" : "Cunningham",
     "lanId" : "SAC35",
-    "email" : "Cunningham.Scott@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Rohan",
     "lastName" : "Gnanaolivu",
     "lanId" : "M149947",
-    "email" : "Gnanaolivu.RohanDavid@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3684,35 +3684,35 @@
     "firstName" : "Nancy",
     "lastName" : "Wengenack",
     "lanId" : "WENGN",
-    "email" : "wengenack.nancy@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Seanne",
     "lastName" : "Buckwalter",
     "lanId" : "SPB03",
-    "email" : "buckwalter.seanne@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Rohan",
     "lastName" : "Gnanaolivu",
     "lanId" : "M149947",
-    "email" : "Gnanaolivu.RohanDavid@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3760,59 +3760,59 @@
     "firstName" : "Nicole",
     "lastName" : "Hoppman",
     "lanId" : "m045189",
-    "email" : "Hoppman.Nicole@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Kate",
     "lastName" : "Pearce",
     "lanId" : "m042273",
-    "email" : "Pearce.Kathryn@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL RST NIPS",
     "lastName" : "test",
     "lanId" : "NA5",
-    "email" : "DLRSTNIPStest@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Carlos",
     "lastName" : "Sosa",
     "lanId" : "M146621",
-    "email" : "Sosa.Carlos@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3881,65 +3881,65 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Cherisse",
     "lastName" : "Marcou",
     "lanId" : "M033880",
-    "email" : "Marcou.Cherisse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Malinda",
     "lastName" : "Butz",
     "lanId" : "mlh17",
-    "email" : "Butz.Malinda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Jesse",
     "lastName" : "Walsh",
     "lanId" : "M007651",
-    "email" : "Walsh.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -3993,53 +3993,53 @@
     "firstName" : "Kevin",
     "lastName" : "Halling",
     "lanId" : "kch03",
-    "email" : "Halling.Kevin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Becky",
     "lastName" : "Wehrs",
     "lanId" : "M061348",
-    "email" : "Wehrs.Rebecca@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Rory",
     "lastName" : "Jackson",
     "lanId" : "M118888",
-    "email" : "Jackson.Rory@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL RNA",
     "lastName" : "Seq",
     "lanId" : "NA8",
-    "email" : "DLRNASeq@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4087,59 +4087,59 @@
     "firstName" : "Nicole",
     "lastName" : "Hoppman",
     "lanId" : "m045189",
-    "email" : "Hoppman.Nicole@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Stephanie",
     "lastName" : "Smoley",
     "lanId" : "SAS56",
-    "email" : "Smoley.Stephanie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL RST ",
     "lastName" : "MatePair",
     "lanId" : "NA9",
-    "email" : "DLRSTMatePair@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4217,59 +4217,59 @@
     "firstName" : "Nicole",
     "lastName" : "Hoppman",
     "lanId" : "m045189",
-    "email" : "Hoppman.Nicole@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Stephanie",
     "lastName" : "Smoley",
     "lanId" : "SAS56",
-    "email" : "Smoley.Stephanie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL RST ",
     "lastName" : "MatePair",
     "lanId" : "NA9",
-    "email" : "DLRSTMatePair@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4314,14 +4314,14 @@
     "firstName" : "Nicole",
     "lastName" : "Hoppman",
     "lanId" : "m045189",
-    "email" : "Hoppman.Nicole@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Kate",
     "lastName" : "Pearce",
     "lanId" : "m042273",
-    "email" : "Pearce.Kathryn@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -4372,41 +4372,41 @@
     "firstName" : "William",
     "lastName" : "Sukov",
     "lanId" : "WRS01",
-    "email" : "Sukov.William@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Beth",
     "lastName" : "Pitel",
     "lanId" : "M037349",
-    "email" : "Pitel.Beth@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4454,41 +4454,41 @@
     "firstName" : "Kevin",
     "lastName" : "Halling",
     "lanId" : "kch03",
-    "email" : "Halling.Kevin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Rory",
     "lastName" : "Jackson",
     "lanId" : "M118888",
-    "email" : "Jackson.Rory@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4536,53 +4536,53 @@
     "firstName" : "Hutton",
     "lastName" : "Kearney",
     "lanId" : "M125006",
-    "email" : "Kearney.Hutton@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Stephanie",
     "lastName" : "Smoley",
     "lanId" : "SAS56",
-    "email" : "Smoley.Stephanie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4630,41 +4630,41 @@
     "firstName" : "Jennifer",
     "lastName" : "Oliveira",
     "lanId" : "M028783",
-    "email" : "Oliveira.Jennifer@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Molly",
     "lastName" : "Hein",
     "lanId" : "m004412",
-    "email" : "hein.molly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Chris",
     "lastName" : "Hilker",
     "lanId" : "HILKC",
-    "email" : "Hilker.Christopher@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4712,41 +4712,41 @@
     "firstName" : "Jennifer",
     "lastName" : "Oliveira",
     "lanId" : "M028783",
-    "email" : "Oliveira.Jennifer@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Molly",
     "lastName" : "Hein",
     "lanId" : "m004412",
-    "email" : "hein.molly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Chris",
     "lastName" : "Hilker",
     "lanId" : "HILKC",
-    "email" : "Hilker.Christopher@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4794,35 +4794,35 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Shannon",
     "lastName" : "Knight",
     "lanId" : "smk31",
-    "email" : "Brankley.Shannon@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4870,35 +4870,35 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Shannon",
     "lastName" : "Knight",
     "lanId" : "smk31",
-    "email" : "Brankley.Shannon@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -4946,35 +4946,35 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Shannon",
     "lastName" : "Knight",
     "lanId" : "smk31",
-    "email" : "Brankley.Shannon@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Blommel",
     "lanId" : "M034057",
-    "email" : "Blommel.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -5022,41 +5022,41 @@
     "firstName" : "Stefan",
     "lastName" : "Grebe",
     "lanId" : "skg18",
-    "email" : "Grebe.Stefan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Dragana",
     "lastName" : "Milosevic",
     "lanId" : "MILOD",
-    "email" : "Milosevic.Dragana@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Jianmin",
     "lastName" : "Wu",
     "lanId" : "WUJ1",
-    "email" : "Wu.Jianmin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -5104,59 +5104,59 @@
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Linda",
     "lastName" : "Hasadsri",
     "lanId" : "m099062",
-    "email" : "Hasadsri.Linda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Samantha",
     "lastName" : "Roellinger",
     "lanId" : "m027412",
-    "email" : "roellinger.samantha@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL Hereditary A",
     "lastName" : "Team",
     "lanId" : "NA7",
-    "email" : "DLHereditaryATeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -5204,53 +5204,53 @@
     "firstName" : "Linnea",
     "lastName" : "Baudhuin",
     "lanId" : "lmb21",
-    "email" : "Baudhuin.Linnea@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Susan",
     "lastName" : "Lagerstedt",
     "lanId" : "sal07",
-    "email" : "lagerstedt.susan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL PGL",
     "lastName" : "Technical Specialists",
     "lanId" : "NA2",
-    "email" : "DLRSTPGLTechSpec@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -5334,53 +5334,53 @@
     "firstName" : "Linnea",
     "lastName" : "Baudhuin",
     "lanId" : "lmb21",
-    "email" : "Baudhuin.Linnea@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Susan",
     "lastName" : "Lagerstedt",
     "lanId" : "sal07",
-    "email" : "lagerstedt.susan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL PGL",
     "lastName" : "Technical Specialists",
     "lanId" : "NA2",
-    "email" : "DLRSTPGLTechSpec@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -5440,65 +5440,65 @@
     "firstName" : "Linnea",
     "lastName" : "Baudhuin",
     "lanId" : "lmb21",
-    "email" : "Baudhuin.Linnea@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "DL PGL",
     "lastName" : "Technical Specialists",
     "lanId" : "NA2",
-    "email" : "DLRSTPGLTechSpec@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Susan",
     "lastName" : "Lagerstedt",
     "lanId" : "sal07",
-    "email" : "lagerstedt.susan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -5591,59 +5591,59 @@
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joseph",
     "lastName" : "Maleszewski",
     "lanId" : "M068326",
-    "email" : "Maleszewski.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Linda",
     "lastName" : "Hasadsri",
     "lanId" : "m099062",
-    "email" : "Hasadsri.Linda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Amber",
     "lastName" : "McDonald",
     "lanId" : "amo11",
-    "email" : "McDonald.AmberM@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Ivy",
     "lastName" : "Luoma",
     "lanId" : "M062755",
-    "email" : "Luoma.Ivy@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -5691,65 +5691,65 @@
     "firstName" : "Linnea",
     "lastName" : "Baudhuin",
     "lanId" : "lmb21",
-    "email" : "Baudhuin.Linnea@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Sandi",
     "lastName" : "Peterson",
     "lanId" : "sep06",
-    "email" : "Peterson.Sandra14@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Carlos",
     "lastName" : "Sosa",
     "lanId" : "M146621",
-    "email" : "Sosa.Carlos@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -5905,65 +5905,65 @@
     "firstName" : "Devin",
     "lastName" : "Oglesbee",
     "lanId" : "dxo03",
-    "email" : "Oglesbee.Devin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Ramanath",
     "lastName" : "Majumdar",
     "lanId" : "m000911",
-    "email" : "Majumdar.Ramanath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -6095,47 +6095,47 @@
     "firstName" : "Jennifer",
     "lastName" : "Oliveira",
     "lanId" : "M028783",
-    "email" : "Oliveira.Jennifer@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Molly",
     "lastName" : "Hein",
     "lanId" : "m004412",
-    "email" : "hein.molly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolHeme",
     "lastName" : "Technical Specialists",
     "lanId" : "NA3",
-    "email" : "DLRSTMHNGS@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -6207,41 +6207,41 @@
     "firstName" : "Jennifer",
     "lastName" : "Oliveira",
     "lanId" : "M028783",
-    "email" : "Oliveira.Jennifer@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Molly",
     "lastName" : "Hein",
     "lanId" : "m004412",
-    "email" : "hein.molly@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -6289,65 +6289,65 @@
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Linda",
     "lastName" : "Hasadsri",
     "lanId" : "m099062",
-    "email" : "Hasadsri.Linda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Samantha",
     "lastName" : "Roellinger",
     "lanId" : "m027412",
-    "email" : "roellinger.samantha@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL Hereditary A",
     "lastName" : "Team",
     "lanId" : "NA7",
-    "email" : "DLHereditaryATeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -6395,59 +6395,59 @@
     "firstName" : "Linnea",
     "lastName" : "Baudhuin",
     "lanId" : "lmb21",
-    "email" : "Baudhuin.Linnea@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Susan",
     "lastName" : "Lagerstedt",
     "lanId" : "sal07",
-    "email" : "lagerstedt.susan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Stephanie(Inactive)",
     "lastName" : "Billings",
     "lanId" : "M018957",
-    "email" : "Billings.Stephanie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -6537,47 +6537,47 @@
     "firstName" : "Stefan",
     "lastName" : "Grebe",
     "lanId" : "skg18",
-    "email" : "Grebe.Stefan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Dragana",
     "lastName" : "Milosevic",
     "lanId" : "MILOD",
-    "email" : "Milosevic.Dragana@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Numrah",
     "lastName" : "Fadra",
     "lanId" : "m105823",
-    "email" : "Fadra.Numrah@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -6634,47 +6634,47 @@
     "firstName" : "Rajiv",
     "lastName" : "Pruthi",
     "lanId" : "rkp02",
-    "email" : "pruthi.rajiv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Julie",
     "lastName" : "Majerus",
     "lanId" : "jam56",
-    "email" : "majerus.julie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -6752,47 +6752,47 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Rohan",
     "lastName" : "Gnanaolivu",
     "lanId" : "M149947",
-    "email" : "Gnanaolivu.RohanDavid@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -6840,53 +6840,53 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -6943,41 +6943,41 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Katie",
     "lastName" : "Halverson",
     "lanId" : "M084568",
-    "email" : "Halverson.Katie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolHeme",
     "lastName" : "Technical Specialists",
     "lanId" : "NA3",
-    "email" : "DLRSTMHNGS@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7046,41 +7046,41 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Katie",
     "lastName" : "Halverson",
     "lanId" : "M084568",
-    "email" : "Halverson.Katie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL MolHeme",
     "lastName" : "Technical Specialists",
     "lanId" : "NA3",
-    "email" : "DLRSTMHNGS@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7155,47 +7155,47 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Emily",
     "lastName" : "Barr Fritcher",
     "lanId" : "EGB01",
-    "email" : "BarrFritcher.Emily@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Neiladri",
     "lastName" : "Saha",
     "lanId" : "M191668",
-    "email" : "Saha.Neiladri@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -7243,41 +7243,41 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Ming",
     "lastName" : "Mai",
     "lanId" : "maim",
-    "email" : "Mai.Ming@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolHeme",
     "lastName" : "Technical Specialists",
     "lanId" : "NA3",
-    "email" : "DLRSTMHNGS@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Rohan",
     "lastName" : "Gnanaolivu",
     "lanId" : "M149947",
-    "email" : "Gnanaolivu.RohanDavid@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7331,35 +7331,35 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Ming",
     "lastName" : "Mai",
     "lanId" : "maim",
-    "email" : "Mai.Ming@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7407,47 +7407,47 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Ming",
     "lastName" : "Mai",
     "lanId" : "maim",
-    "email" : "Mai.Ming@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolHeme",
     "lastName" : "Technical Specialists",
     "lanId" : "NA3",
-    "email" : "DLRSTMHNGS@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7495,53 +7495,53 @@
     "firstName" : "Manish",
     "lastName" : "Gandhi",
     "lanId" : "M048769",
-    "email" : "Gandhi.Manish@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Brian",
     "lastName" : "Dukek",
     "lanId" : "bad01",
-    "email" : "Dukek.Brian@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Laurie",
     "lastName" : "Wakefield",
     "lanId" : "M095462",
-    "email" : "Wakefield.Laurie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Nicole",
     "lastName" : "Henderson",
     "lanId" : "NAH14",
-    "email" : "Henderson.Nicole@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7601,41 +7601,41 @@
     "firstName" : "Manish",
     "lastName" : "Gandhi",
     "lanId" : "M048769",
-    "email" : "Gandhi.Manish@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Brian",
     "lastName" : "Dukek",
     "lanId" : "bad01",
-    "email" : "Dukek.Brian@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7695,59 +7695,59 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Chris",
     "lastName" : "Zysk",
     "lanId" : "M141210",
-    "email" : "Zysk.Christopher@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Rohini",
     "lastName" : "Mopuri",
     "lanId" : "M185403",
-    "email" : "Mopuri.Rohini@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -7801,59 +7801,59 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Chris",
     "lastName" : "Zysk",
     "lanId" : "M141210",
-    "email" : "Zysk.Christopher@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Neiladri",
     "lastName" : "Saha",
     "lanId" : "M191668",
-    "email" : "Saha.Neiladri@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -7907,47 +7907,47 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Long",
     "lastName" : "Jin",
     "lanId" : "JINL",
-    "email" : "jin.long@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Neiladri",
     "lastName" : "Saha",
     "lanId" : "M191668",
-    "email" : "Saha.Neiladri@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -7986,14 +7986,14 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -8053,77 +8053,77 @@
     "firstName" : "Ed",
     "lastName" : "Highsmith",
     "lanId" : "weh04",
-    "email" : "Highsmith.W@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Linda",
     "lastName" : "Hasadsri",
     "lanId" : "m099062",
-    "email" : "Hasadsri.Linda@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Samantha",
     "lastName" : "Roellinger",
     "lanId" : "m027412",
-    "email" : "roellinger.samantha@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Hereditary B",
     "lastName" : "Team",
     "lanId" : "NA6",
-    "email" : "DLHereditaryBTeam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Gopi",
     "lastName" : "Sivasankaran",
     "lanId" : "M165261",
-    "email" : "Sivasankaran.Gopinath@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Nipun",
     "lastName" : "Mistry",
     "lanId" : "m141962",
-    "email" : "Mistry.Nipun@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -8186,53 +8186,53 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Shubham",
     "lastName" : "Basu",
     "lanId" : "M191047",
-    "email" : "Basu.Shubham@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -8301,53 +8301,53 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "DL MolGen",
     "lastName" : "Technical Specialists",
     "lanId" : "NA",
-    "email" : "DLMOLGENTECHSPEC@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "DL Solid Tumor",
     "lastName" : "Techs",
     "lanId" : "NA4",
-    "email" : "DLSolidTumorTechs@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Shubham",
     "lastName" : "Basu",
     "lanId" : "M191047",
-    "email" : "Basu.Shubham@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -8413,35 +8413,35 @@
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "m028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Katie",
     "lastName" : "Halverson",
     "lanId" : "M084568",
-    "email" : "Halverson.Katie@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "David",
     "lastName" : "Viswanatha",
     "lanId" : "M028963",
-    "email" : "Viswanatha.David@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Saranya",
     "lastName" : "Sankaranarayanan",
     "lanId" : "m139415",
-    "email" : "Sankaranarayanan.Saranya@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -8489,34 +8489,34 @@
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ ],
@@ -8565,28 +8565,28 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ ],
@@ -8626,14 +8626,14 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -8669,14 +8669,14 @@
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -8712,14 +8712,14 @@
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -8755,14 +8755,14 @@
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -8798,14 +8798,14 @@
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -8850,41 +8850,41 @@
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Jesse",
     "lastName" : "Voss",
     "lanId" : "jsv01",
-    "email" : "Voss.Jesse@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Xianglin",
     "lastName" : "Wu",
     "lanId" : "mrh1859",
-    "email" : "Wu.Xianglin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Jag",
     "lastName" : "Balan",
     "lanId" : "m139105",
-    "email" : "Balan.Jagadheshwar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Shubham",
     "lastName" : "Basu",
     "lanId" : "M191047",
-    "email" : "Basu.Shubham@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ {
@@ -8932,14 +8932,14 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "m060084",
-    "email" : "dina.michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -8990,14 +8990,14 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "m060084",
-    "email" : "dina.michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -9048,14 +9048,14 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "m060084",
-    "email" : "dina.michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ ],
@@ -9112,41 +9112,41 @@
     "firstName" : "Robin",
     "lastName" : "Patel",
     "lanId" : "RXP04",
-    "email" : "patel.robin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Prakhar",
     "lastName" : "Vijayvargiya",
     "lanId" : "M156222",
-    "email" : "Vijayvargiya.Prakhar@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Rohan",
     "lastName" : "Gnanaolivu",
     "lanId" : "M149947",
-    "email" : "Gnanaolivu.RohanDavid@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -9185,47 +9185,47 @@
     "firstName" : "Stefan",
     "lastName" : "Grebe",
     "lanId" : "skg18",
-    "email" : "Grebe.Stefan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Ande",
     "lastName" : "Rumilla",
     "lanId" : "KMR06",
-    "email" : "Rumilla.Kandelaria@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Dragana",
     "lastName" : "Milosevic",
     "lanId" : "MILOD",
-    "email" : "Milosevic.Dragana@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Neiladri",
     "lastName" : "Saha",
     "lanId" : "M191668",
-    "email" : "Saha.Neiladri@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -9273,47 +9273,47 @@
     "firstName" : "Stefan",
     "lastName" : "Grebe",
     "lanId" : "skg18",
-    "email" : "Grebe.Stefan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Ande",
     "lastName" : "Rumilla",
     "lanId" : "KMR06",
-    "email" : "Rumilla.Kandelaria@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Dragana",
     "lastName" : "Milosevic",
     "lanId" : "MILOD",
-    "email" : "Milosevic.Dragana@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Ben",
     "lastName" : "Kipp",
     "lanId" : "brk05",
-    "email" : "Kipp.Benjamin@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Michelle(Inactive)",
     "lastName" : "Dina",
     "lanId" : "M060084",
-    "email" : "Dina.Michelle@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   }, {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Neiladri",
     "lastName" : "Saha",
     "lanId" : "M191668",
-    "email" : "Saha.Neiladri@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "panelDefinitions" : [ {
@@ -9352,28 +9352,28 @@
     "firstName" : "Matt",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Lisa",
     "lastName" : "Peterson",
     "lanId" : "lmp27",
-    "email" : "peterson.lisa1@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : " Matt(Inactive)",
     "lastName" : "Ferber",
     "lanId" : "ferbm",
-    "email" : "ferber.matthew@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Joe",
     "lastName" : "Thompson",
     "lanId" : "M141209",
-    "email" : "Thompson.Joseph@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ ],
@@ -9422,41 +9422,41 @@
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Pat",
     "lastName" : "Lundquist",
     "lanId" : "pal04",
-    "email" : "lundquist.patrick@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ {
     "firstName" : "Mariam",
     "lastName" : "Stein",
     "lanId" : "M182981",
-    "email" : "Stein.Mariam@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   }, {
     "firstName" : "Teja",
     "lastName" : "Koganti",
     "lanId" : "M132186",
-    "email" : "Koganti.Tejaswi@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : false
   } ],
   "panelDefinitions" : [ ]
@@ -9489,28 +9489,28 @@
     "firstName" : "Linnea",
     "lastName" : "Baudhuin",
     "lanId" : "lmb21",
-    "email" : "Baudhuin.Linnea@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "hostLabContacts" : [ {
     "firstName" : "Susan",
     "lastName" : "Lagerstedt",
     "lanId" : "sal07",
-    "email" : "lagerstedt.susan@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslConsultants" : [ {
     "firstName" : "Neal",
     "lastName" : "Niu",
     "lanId" : "M147613",
-    "email" : "Niu.Zhiyv@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "cgslDevTechs" : [ {
     "firstName" : "Eric",
     "lastName" : "Zimmerman Zuckerman",
     "lanId" : "M147856",
-    "email" : "Zuckerman.Eric@mayo.edu",
+    "email" : "Winter.Eric@mayo.edu",
     "primary" : true
   } ],
   "informaticsSpecialists" : [ ],

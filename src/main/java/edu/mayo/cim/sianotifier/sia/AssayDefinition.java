@@ -17,6 +17,10 @@ public class AssayDefinition {
     /** deve techs within core lab who should received notifications of events in the assay */
     private List<Contact> cgslDevTechs;
 
+    private List<Contact> informaticsSpecialists;
+
+    private List<Contact> proponents;
+
     public String getProjectNumber() {
         return projectNumber;
     }
@@ -50,6 +54,24 @@ public class AssayDefinition {
 
     public AssayDefinition setCgslDevTechs(List<Contact> cgslDevTechs) {
         this.cgslDevTechs = cgslDevTechs;
+        return this;
+    }
+
+    public List<Contact> getInformaticsSpecialists() {
+        return informaticsSpecialists;
+    }
+
+    public AssayDefinition setInformaticsSpecialists(List<Contact> informaticsSpecialists) {
+        this.informaticsSpecialists = informaticsSpecialists;
+        return this;
+    }
+
+    public List<Contact> getProponents() {
+        return proponents;
+    }
+
+    public AssayDefinition setProponents(List<Contact> proponents) {
+        this.proponents = proponents;
         return this;
     }
 }

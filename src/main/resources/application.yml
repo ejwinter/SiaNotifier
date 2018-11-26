@@ -1,14 +1,14 @@
 # This application.yml is only meant as a template, the property values should be over written
 # and a new configuration file provided on execution
 archiveNotification:
-  notificationRepository: /Users/user/Desktop/notified.txt
+  notificationRepository: /Users/winte/Desktop/notified.txt
   # the period after panel go live when archive (cleanup) will begin.  Use P#Y#M#D to specify the number of years, months, and days respectively
   cleanupPeriod: P0Y6M0D
   # The period before the clean will start when we should send out a notification email.  Use P#Y#M#D to specify the number of years, months, and days respectively
   warningPeriodBeforeCleanup: P0Y2M0D
   emailTemplate:
-    # set to true if you want to send an email to a specific person instead of contacts, useful for testing. TODO: perhaps we should have the email to send to here instead
-    mockSend: true
+    # This should only be set if you want messages to go to this address instead of the actually interested parties
+    mockReceiver: Winter.Eric@mayo.edu
     # this will be set to true if the email should be an HTML email instead of plain text.  If you need HTML tags or styles use this.
     isHtml: true
     # not in these templates, we substitute $ with ^ in the freemarker templates.  That is so Spring doesn't
