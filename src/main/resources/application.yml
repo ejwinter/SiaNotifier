@@ -9,6 +9,7 @@ archiveNotification:
   emailTemplate:
     # This should only be set if you want messages to go to this address instead of the actually interested parties
     mockReceiver: Winter.Eric@mayo.edu
+    carbonCopy: Winter.Eric@mayo.edu
     # this will be set to true if the email should be an HTML email instead of plain text.  If you need HTML tags or styles use this.
     isHtml: true
     # not in these templates, we substitute $ with ^ in the freemarker templates.  That is so Spring doesn't

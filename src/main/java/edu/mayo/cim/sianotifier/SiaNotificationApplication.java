@@ -56,6 +56,9 @@ public class SiaNotificationApplication implements CommandLineRunner {
     @Value("${archiveNotification.emailTemplate.mockReceiver:#{null}}")
     private String mockReceiver = null;
 
+    @Value("${archiveNotification.emailTemplate.carbonCopy:#{null}}")
+    private String carbonCopy = null;
+
     @Value("${archiveNotification.emailTemplate.isHtml:false}")
     private boolean htmlMessage = false;
 
@@ -100,12 +103,6 @@ public class SiaNotificationApplication implements CommandLineRunner {
     }
 
     private void sendMessage(SimpleMailMessage simpleMailMessage) {
-
-        if(mockReceiver == null){
-            throw new IllegalStateException();
-        }else{
-            logger.debug("Mock receiver {}", mockReceiver);
-        }
 
         if(simpleMailMessage == null){
             logger.warn("We have a null email message for some reason.");
@@ -163,9 +160,8 @@ public class SiaNotificationApplication implements CommandLineRunner {
 
         SimpleMailMessage email = message.getMessage();
 
-        if(mockReceiver == null){
-            //TODO make configurable
-            email.setCc("RSTNGSDATAREQ@mayo.edu");
+        if(carbonCopy != null){
+            email.setCc(carbonCopy);
         }
 
         return email;
