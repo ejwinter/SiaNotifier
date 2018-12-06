@@ -42,6 +42,8 @@ sia:
 
 # Spring settings
 spring:
+  main:
+    web-application-type: none
   # this is needed to configure the mail server.  Reference the Spring Mail documentation for details.
   mail:
     default-encoding: UTF-8
