@@ -16,7 +16,7 @@ class SiaPanelServiceSpec extends Specification {
 
     def setup(){
         restTemplate = Mock(RestTemplate)
-        service = new SiaPanelService(restTemplate)
+        service = new SiaPanelService(restTemplate, "http://sia/assay-definitions")
     }
 
     def "listAllAssays OK"(){
@@ -24,7 +24,7 @@ class SiaPanelServiceSpec extends Specification {
         given:
         AssayDefinition[] assays = [new AssayDefinition().setProjectNumber("NGS##")] as AssayDefinition[]
         and:
-        restTemplate.getForEntity("/assay-definitions", AssayDefinition[].class) >> new ResponseEntity<AssayDefinition[]>(assays, HttpStatus.OK)
+        restTemplate.getForEntity("http://sia/assay-definitions", AssayDefinition[].class) >> new ResponseEntity<AssayDefinition[]>(assays, HttpStatus.OK)
 
         when:
         List<AssayDefinition> list = service.listAllAssays()
@@ -38,7 +38,7 @@ class SiaPanelServiceSpec extends Specification {
     def "listAllAssays NOT FOUND"(){
 
         given:
-        restTemplate.getForEntity("/assay-definitions", AssayDefinition[].class) >> new ResponseEntity<AssayDefinition[]>(HttpStatus.NOT_FOUND)
+        restTemplate.getForEntity("http://sia/assay-definitions", AssayDefinition[].class) >> new ResponseEntity<AssayDefinition[]>(HttpStatus.NOT_FOUND)
 
         when:
         List<AssayDefinition> list = service.listAllAssays()

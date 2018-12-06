@@ -20,11 +20,8 @@ public class SiaConfiguration {
      * @return the rest template that can be used to connect to SIA
      */
     @Bean(name = "SiaRestTemplate")
-    public RestTemplate createSiaRestTempate(
-
-    ){
-        RestTemplate restTemplate =  new RestTemplate();
-        return restTemplate;
+    public RestTemplate createSiaRestTempate(){
+        return new RestTemplate();
     }
 
 

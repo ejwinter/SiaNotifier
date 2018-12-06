@@ -62,7 +62,7 @@ public class SiaNotificationApplication implements CommandLineRunner {
     @Value("${archiveNotification.emailTemplate.isHtml:false}")
     private boolean htmlMessage = false;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         ConfigurableApplicationContext run = SpringApplication.run(SiaNotificationApplication.class, args);
         // close down the application, this will shut down all beans including, importantly the notificationDao which will be persisted.
         run.close();
@@ -99,6 +99,7 @@ public class SiaNotificationApplication implements CommandLineRunner {
                 .collect(Collectors.toMap(PanelDefinition::getProjectNumber, pd -> pd, (first, second) -> {
                     return (first.getGoLiveDate().isBefore(second.getGoLiveDate()) ? first : second);
                 })).values().stream()
+                .peek(pd -> notificationDao.registerNotification(pd.getProjectNumber(), null))
                 .map(pd -> this.produceNotificationMessage(pd, ctdArchiveNotificationTemplate));
     }
 
@@ -186,6 +187,7 @@ public class SiaNotificationApplication implements CommandLineRunner {
                     boolean isAfterWhenWeShouldSendNotification = now.isAfter(serviceStartArchiveDate.minus(Period.parse(periodBeforeCleanupToSendNotifications)));
                     return hasNotYetStartedToArchive && isAfterWhenWeShouldSendNotification;
                 })
+                .peek(pd -> notificationDao.registerNotification(pd.getProjectNumber(), pd.getMnemonic()))
                 .collect(Collectors.toList());
     }
 

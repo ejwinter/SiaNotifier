@@ -57,3 +57,6 @@ spring:
             enable: false
     protocol: smtp
     test-connection: false
+logging:
+  level:
+   edu.mayo.cim: DEBUG

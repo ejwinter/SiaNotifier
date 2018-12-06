@@ -5,11 +5,11 @@
 
     <groupId>edu.mayo.cim</groupId>
     <artifactId>sia-notifier</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.00.00</version>
     <packaging>jar</packaging>
 
-    <name>OrderedServiceMonitor</name>
-    <description>Demo project for Spring Boot</description>
+    <name>SiaNotifier</name>
+    <description>A tool that notify interested parties of various events occuring based on data found in Sampel Intake Application (SIA).</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
