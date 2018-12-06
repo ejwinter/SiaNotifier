@@ -17,15 +17,13 @@ public class SiaConfiguration {
      * security setup in front of its REST endpoints because they are only
      * GET requests and not considered confidential.
      *
-     * @param siaUrl the url to connect to SIA
      * @return the rest template that can be used to connect to SIA
      */
     @Bean(name = "SiaRestTemplate")
     public RestTemplate createSiaRestTempate(
-            @Value("${sia.url}") String siaUrl
+
     ){
         RestTemplate restTemplate =  new RestTemplate();
-        restTemplate.setUriTemplateHandler(new RootUriTemplateHandler(siaUrl));
         return restTemplate;
     }
 

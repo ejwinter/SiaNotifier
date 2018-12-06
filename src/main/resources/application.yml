@@ -8,7 +8,7 @@ archiveNotification:
   warningPeriodBeforeCleanup: P0Y2M0D
   emailTemplate:
     # This should only be set if you want messages to go to this address instead of the actually interested parties
-    mockReceiver: Winter.Eric@mayo.edu
+    # mockReceiver: Winter.Eric@mayo.edu
     carbonCopy: Winter.Eric@mayo.edu
     # this will be set to true if the email should be an HTML email instead of plain text.  If you need HTML tags or styles use this.
     isHtml: true
@@ -38,7 +38,7 @@ archiveNotification:
 # configuration details specific to the connection to SIA
 sia:
   # the url where the sia api is deployed
-  url: https://sia.tcprod.mayo.edu/sia/api
+  url: http://r5154431.mayo.edu/projects/siamock/assay-definitions.json
 
 # Spring settings
 spring:
