@@ -76,11 +76,14 @@ This is the response expect to see when we do a GET request to the sia.url
 
 This has been narrowed down to the pieces we actually use.
 
-<code json>
+<code>
 
     [
       {
+        /** only the first panel to go live triggers a notification in CTD */
         "projectNumber" : "NGS02",
+        
+        /** only proponents, hostLabContacts, and informaticsSpecialists get email */
         "proponents" : [ {
           "email" : "Winter.Eric@mayo.edu"
         }, {
@@ -101,8 +104,11 @@ This has been narrowed down to the pieces we actually use.
           "goLiveDate" : "2018-01-01T06:00:00Z",
           "phase" : "Verification"
         }, {
+          /** each panel gets seperate notification based on their go live date in production */
           "mnemonic" : "APCZ",
+          /** by default, we notify between 4 and 6 months of this date */
           "goLiveDate" : "2018-08-01T05:00:00Z",
+          /** we only notify for "Clinical" panels */
           "phase" : "Clinical"
         }, {
           "mnemonic" : "MYHZ"
