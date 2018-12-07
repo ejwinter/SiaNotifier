@@ -12,8 +12,8 @@ The basic steps it performs include:
 2. Find out all panels defined in those assays that are live and will soon begin to have the data archived.
 3. For those panels assemble a list of contacts and send them a notification of the pending archive starting.
 4. Assemble emails to send based on a templated email.
-  * prod emails are sent each time a panel goes live.
-  * ctd emails are sent once when the first panel goes live for a given assay.
+    * prod emails are sent each time a panel goes live.
+    * ctd emails are sent once when the first panel goes live for a given assay.
 5. Send email.  Making note of which ones we are sending so we do not send again.
 
 ## Usage
